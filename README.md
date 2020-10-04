@@ -1,1 +1,1 @@
-# pi20-6-practicum-krivolapov-cheplakova
+Практическая работа по заданию №4, выполненная на языке Python 3.8
